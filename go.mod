@@ -1,3 +1,3 @@
-module github.com/horgh/videostreamer
+module github.com/bmurray/videostreamer
 
 go 1.13
